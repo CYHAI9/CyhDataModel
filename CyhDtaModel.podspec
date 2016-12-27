@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CyhDtaModel"
-  s.version      = "1.0.1"
+  s.version      = "1.1.1"
   s.summary      = "it is a good code"
 
   # This description is used to generate tags and improve search results.
@@ -131,7 +131,7 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
 
-  # s.xcconfig = {'OTHER_LDFLAGS' => '"$(inherited)" "-lxml2" "-ObjC -all_load"'}
+  s.xcconfig = {'OTHER_LDFLAGS' => '"$(inherited)" "-lxml2" "-ObjC -all_load"'}
   # s.dependency "JSONKit", "~> 1.4"
 
 end
