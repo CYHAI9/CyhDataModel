@@ -12,6 +12,7 @@
 #import "Model2.h"
 #import "rummodel.h"
 #import "ModelRumtime.h"
+#import "NSObject+MchangeD.h"
 @interface ViewController ()
 
 @end
@@ -77,7 +78,7 @@
         NSLog(@"xxxx===%@",model2.type);
         
     }
-    
+    NSLog(@"模型转字典%@",model1.dictionaryFromModel);
 }
 
 

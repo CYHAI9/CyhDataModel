@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		323247DD1E1CA5F4004109FA /* NSObject+MchangeD.m in Sources */ = {isa = PBXBuildFile; fileRef = 323247DC1E1CA5F4004109FA /* NSObject+MchangeD.m */; };
 		32AF98921E12298700602DF6 /* ModelRumtime.m in Sources */ = {isa = PBXBuildFile; fileRef = 32AF98911E12298700602DF6 /* ModelRumtime.m */; };
 		32AF98951E122BC600602DF6 /* rummodel.m in Sources */ = {isa = PBXBuildFile; fileRef = 32AF98941E122BC600602DF6 /* rummodel.m */; };
 		32AF98981E12435A00602DF6 /* NSObject+Runtime.m in Sources */ = {isa = PBXBuildFile; fileRef = 32AF98971E12435A00602DF6 /* NSObject+Runtime.m */; };
@@ -32,6 +33,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		323247DB1E1CA5F4004109FA /* NSObject+MchangeD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+MchangeD.h"; sourceTree = "<group>"; };
+		323247DC1E1CA5F4004109FA /* NSObject+MchangeD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MchangeD.m"; sourceTree = "<group>"; };
 		32AF98901E12298700602DF6 /* ModelRumtime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ModelRumtime.h; sourceTree = "<group>"; };
 		32AF98911E12298700602DF6 /* ModelRumtime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ModelRumtime.m; sourceTree = "<group>"; };
 		32AF98931E122BC600602DF6 /* rummodel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rummodel.h; sourceTree = "<group>"; };
@@ -121,6 +124,8 @@
 				32AF98971E12435A00602DF6 /* NSObject+Runtime.m */,
 				32AF98931E122BC600602DF6 /* rummodel.h */,
 				32AF98941E122BC600602DF6 /* rummodel.m */,
+				323247DB1E1CA5F4004109FA /* NSObject+MchangeD.h */,
+				323247DC1E1CA5F4004109FA /* NSObject+MchangeD.m */,
 				32EAB57E1DFFCF5F007C8FCF /* Main.storyboard */,
 				32EAB5811DFFCF5F007C8FCF /* Assets.xcassets */,
 				32EAB5831DFFCF5F007C8FCF /* LaunchScreen.storyboard */,
@@ -254,6 +259,7 @@
 				32EAB5B61DFFDE4F007C8FCF /* Model2.m in Sources */,
 				32EAB5AA1DFFCF7E007C8FCF /* NSObject+MJProperty.m in Sources */,
 				32EAB57D1DFFCF5F007C8FCF /* ViewController.m in Sources */,
+				323247DD1E1CA5F4004109FA /* NSObject+MchangeD.m in Sources */,
 				32EAB57A1DFFCF5F007C8FCF /* AppDelegate.m in Sources */,
 				32AF98921E12298700602DF6 /* ModelRumtime.m in Sources */,
 				32EAB5A31DFFCF7E007C8FCF /* MJFoundation.m in Sources */,
